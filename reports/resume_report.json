@@ -1,0 +1,14 @@
+{
+    "record_id": "695bebe21b0d20af0376ac6a",
+    "role": "software-engineer",
+    "matchingSkills": [
+        "Python",
+        "Java",
+        "Git"
+    ],
+    "missingSkills": [
+        "DSA",
+        "OOP"
+    ],
+    "skillMatch": 60
+}
