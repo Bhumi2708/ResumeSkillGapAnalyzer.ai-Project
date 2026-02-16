@@ -129,6 +129,5 @@ This project is open-source and free to use for educational purposes.
 Contact
 
 Developer: Bhumika Sham Gujar
-Email: [your-email@example.com
-]
+Email: bhumikagujar444@gmail.com
 LinkedIn: https://www.linkedin.com/in/bhumika-gujar
